@@ -6,15 +6,32 @@ using System.Threading.Tasks;
 
 namespace GettingStartedWithCSharp
 {
-    class TypeOfOperator
+    class IfElseIfDemo
     {
         static void Main()
         {
-            // typeof is used to find the managed type of type at run time
-            Console.WriteLine(typeof(int));
-            Console.WriteLine(typeof(string));
-            Console.ReadLine();
- 
+            // Using if-else-if we can check multiple condtions
+            Console.Write("Enter Item Name:");
+            string Item = Console.ReadLine();
+            Item = Item.ToLowerInvariant();
+            if (Item == "food")
+            {
+                Console.WriteLine("1%");
+            }
+            else if (Item == "Ornaments")
+            {
+                Console.WriteLine("5%");
+            }
+            else if (Item == "Services")
+            {
+                Console.WriteLine("18%");
+            }
+            else
+            {
+                Console.WriteLine("Invalid Item");
+            }
+                
+                Console.ReadLine();
         }
     }
 }
