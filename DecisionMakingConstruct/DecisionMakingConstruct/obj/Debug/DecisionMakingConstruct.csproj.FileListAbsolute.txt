@@ -1,0 +1,7 @@
+C:\Users\giliy\Desktop\Codes\Git and GitHub\DecisionMakingConstructs\DecisionMakingConstruct\DecisionMakingConstruct\obj\Debug\DecisionMakingConstruct.csproj.AssemblyReference.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\DecisionMakingConstructs\DecisionMakingConstruct\DecisionMakingConstruct\obj\Debug\DecisionMakingConstruct.csproj.CoreCompileInputs.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\DecisionMakingConstructs\DecisionMakingConstruct\DecisionMakingConstruct\bin\Debug\DecisionMakingConstruct.exe.config
+C:\Users\giliy\Desktop\Codes\Git and GitHub\DecisionMakingConstructs\DecisionMakingConstruct\DecisionMakingConstruct\bin\Debug\DecisionMakingConstruct.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\DecisionMakingConstructs\DecisionMakingConstruct\DecisionMakingConstruct\bin\Debug\DecisionMakingConstruct.pdb
+C:\Users\giliy\Desktop\Codes\Git and GitHub\DecisionMakingConstructs\DecisionMakingConstruct\DecisionMakingConstruct\obj\Debug\DecisionMakingConstruct.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\DecisionMakingConstructs\DecisionMakingConstruct\DecisionMakingConstruct\obj\Debug\DecisionMakingConstruct.pdb
